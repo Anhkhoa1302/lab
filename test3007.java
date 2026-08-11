@@ -1,4 +1,4 @@
-package Kiemtra;
+package Kiemtra.lab;
 
 import java.util.Scanner;
 
@@ -32,7 +32,6 @@ public class test3007 {
         }
     }
 
-public static void binarysearch(int k)
     public static void main(String[] args) {
         System.out.println("Nhap so nguyen: ");
         Scanner sc = new Scanner(System.in);
